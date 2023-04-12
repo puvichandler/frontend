@@ -1,0 +1,35 @@
+div{
+    border:2px ; 
+    border-style:solid; 
+    opacity: 10px; 
+    color: grey;
+    border-radius: 10px;
+    width: 200px;
+    padding: 20px;
+}
+#burger{
+    position: sticky;
+    top: 0;
+    background-color: yellowgreen;
+    width: 100%;
+    color: black;
+    
+}
+body{
+    background-color: black;
+    margin: 0;
+}
+a{
+    position: fixed;
+    bottom:0; 
+    right: 0;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 60%;
+
+
+    
+}
+.card{
+    margin: 30px;
+}

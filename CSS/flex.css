@@ -1,0 +1,21 @@
+#parent{
+    text-align: center;
+    
+}
+#parent-2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 30px;
+    background-color:black;
+    
+}
+#parent-2 div img{
+    width: 200px;
+    flex-direction: row;
+}
+#parent-2 div{
+    margin: 10px;
+    background-color: darkcyan;
+}
